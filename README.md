@@ -2,7 +2,6 @@
 
 - [Surveys](#surveys) 
 - [Papers](#papers)
--- [Action/Activity Recognition]
 - [Challenges](#challenges)
 
 
