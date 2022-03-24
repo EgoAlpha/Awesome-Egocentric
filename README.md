@@ -7,7 +7,7 @@
     - [Video Captioning](#video-captioning)
     - [Embodied Agent Learning](#embodied-agent-learning)
         - [VLN (Vision-and-Language Navigation)](#vln-vision-and-language-navigation))
-    - [Egocentric Video Summarization]
+    - [Egocentric Video Summarization](#egocentric-video-summarization)
     - [Hand-Object Interactions / Human Object Interaction](#hand-object-interactions)
     - [Action/Activity Recognition](#actionactivity-recognition)
     - [Action Anticipation / Gaze Anticipation](#action-anticipation)
