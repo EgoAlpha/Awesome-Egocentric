@@ -37,6 +37,30 @@
 
 ## Papers
 
+
+### Episodic Memory
+
+### Referring Image Segmentation
+
+### Video Captioning 
+
+### Embodied Agent Learning
+
+### Egocentric Video Summarization
+
+### Human Object Interaction
+
+### Action/Activity Recognition
+
+### Action/Gaze Anticipation
+
+### VQA
+
+### VLP
+
+
+
+
 ### Action/Activity Recognition
 
 - [Stacked Temporal Attention: Improving First-person Action Recognition by Emphasizing Discriminative Clips](https://arxiv.org/abs/2112.01038) - Lijin Yang, Yifei Huang, Yusuke Sugano, Yoichi Sato, BMVC 2021
