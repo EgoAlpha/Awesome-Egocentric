@@ -3,18 +3,18 @@
 - [Surveys](#surveys) 
 - [Papers](#papers)
     - [Action/Activity Recognition](#actionactivity-recognition)
-    - Hand-Object Interactions
-    - Usupervised Domain Adaptation
-    - Domain Generalization
-    - Action Anticipation
-        - Short-Term Action Anticipation
-        - Long-Term Action Anticipation
-        - Future Gaze Prediction
-        - Trajectory prediction
-        - Region prediction
-    - Multi-Modalities
-    - Audio-Visual
-    - Depth
+    - [Hand-Object Interactions](#hand-object-interactions)
+    - [Usupervised Domain Adaptation]
+    - [Domain Generalization]
+    - [Action Anticipation]
+        - [Short-Term Action Anticipation]
+        - [Long-Term Action Anticipation]
+        - [Future Gaze Prediction]
+        - [Trajectory prediction]
+        - [Region prediction]
+    - [Multi-Modalities]
+    - [Audio-Visual]
+    - [Depth]
 - [Challenges](#challenges)
 
 
