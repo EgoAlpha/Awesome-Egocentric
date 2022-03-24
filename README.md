@@ -2,9 +2,7 @@
 
 - [Surveys](#surveys) 
 - [Papers](#papers)
-- [Datasets](#datasets)
 - [Challenges](#challenges)
-- [Devices](#devices)
 
 
 
@@ -506,85 +504,9 @@
 - [Learning by Watching](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Learning_by_Watching_CVPR_2021_paper.pdf) - Jimuyang Zhang, Eshed Ohn-Bar, CVPR 2021
 
 
-### Datasets
-
-- [Ego4D](https://ego4d-data.org) - 3,025 hours of daily-life activity video spanning hundreds of scenarios (household, outdoor, workplace, leisure, etc.) captured by 855 unique camera wearers from 74 worldwide locations and 9 different countries.
-- [EgoCom](https://github.com/facebookresearch/EgoCom-Dataset) - A natural conversations dataset containing multi-modal human communication data captured simultaneously from the participants' egocentric perspectives.
-- [TREK-100](https://machinelearning.uniud.it/datasets/trek100/) - Object tracking in first person vision.
-- [MECCANO](https://iplab.dmi.unict.it/MECCANO/) - 20 subject assembling a toy motorbike.
-- [EPIC-Kitchens 2020](https://epic-kitchens.github.io/2020-100) - Subjects performing unscripted actions in their native environments.
-- [EPIC-Tent](https://data.bristol.ac.uk/data/dataset/2ite3tu1u53n42hjfh3886sa86) - 29 participants assembling a tent while wearing two head-mounted cameras. [[paper]](https://ieeexplore.ieee.org/document/9022634)
-- [EGO-CH](https://iplab.dmi.unict.it/EGO-CH/) - 70 subjects visiting two cultural sites in Sicily, Italy.
-- [EPIC-Kitchens 2018](https://epic-kitchens.github.io/2018) - 32 subjects performing unscripted actions in their native environments.
-- [Charade-Ego](https://allenai.org/plato/charades/) - Paired first-third person videos.
-- [EGTEA Gaze+](http://cbs.ic.gatech.edu/fpv/) - 32 subjects, 86 cooking sessions, 28 hours.
-- [ADL](https://www.csee.umbc.edu/~hpirsiav/papers/ADLdataset/) - 20 subjects performing daily activities in their native environments.
-- [CMU kitchen](http://kitchen.cs.cmu.edu/index.php) - Multimodal, 18 subjects cooking 5 different recipes: brownies, eggs, pizza, salad, sandwich.
-- [EgoSeg](http://www.vision.huji.ac.il/egoseg/) - Long term actions (walking, running, driving, etc.)
-- [First-Person Social Interactions](http://ai.stanford.edu/~alireza/Disney/) - 8 subjects at disneyworld.
-- [UEC Dataset](http://www.cs.cmu.edu/~kkitani/datasets/) - Two choreographed datasets with different egoactions (walk, jump, climb, etc.) + 6 YouTube sports videos.
-- [JPL](http://michaelryoo.com/jpl-interaction.html) - Interaction with a robot.
-- [FPPA](http://tamaraberg.com/prediction/Prediction.html) - Five subjects performing 5 daily actions.
-- [UT Egocentric](http://vision.cs.utexas.edu/projects/egocentric/index.html) - 3-5 hours long videos capturing a person's day.
-- [VINST/ Visual Diaries](http://www.csc.kth.se/cvap/vinst/NovEgoMotion.html) - 31 videos capturing the visual experience of a subject walking from metro station to work.
-- [Bristol Egocentric Object Interaction (BEOID)](https://www.cs.bris.ac.uk/~damen/BEOID/) - 8 subjects, six locations. Interaction with objects and environment.
-- [Object Search Dataset](https://github.com/Mengmi/deepfuturegaze_gan) - 57 sequences of 55 subjects on search and retrieval tasks.
-- [UNICT-VEDI](http://iplab.dmi.unict.it/VEDI/) - Different subjects visiting a museum.
-- [UNICT-VEDI-POI](http://iplab.dmi.unict.it/VEDI_POIs/) - Different subjects visiting a museum.
-- [Simulated Egocentric Navigations](http://iplab.dmi.unict.it/SimulatedEgocentricNavigations/) - Simulated navigations of a virtual agent within a large building.
-- [EgoCart](http://iplab.dmi.unict.it/EgocentricShoppingCartLocalization/) - Egocentric images collected by a shopping cart in a retail store.
-- [Unsupervised Segmentation of Daily Living Activities](http://iplab.dmi.unict.it/dailylivingactivities) - Egocentric videos of daily activities.
-- [Visual Market Basket Analysis](http://iplab.dmi.unict.it/vmba/) - Egocentric images collected by a shopping cart in a retail store.
-- [Location Based Segmentation of Egocentric Videos](http://iplab.dmi.unict.it/PersonalLocationSegmentation/) - Egocentric videos of daily activities.
-- [Recognition of Personal Locations from Egocentric Videos](http://iplab.dmi.unict.it/PersonalLocations/) - Egocentric videos clips of daily.
-- [EgoGesture](http://www.nlpr.ia.ac.cn/iva/yfzhang/datasets/egogesture.html) - 2k videos from 50 subjects performing 83 gestures.
-- [EgoHands](http://vision.soic.indiana.edu/projects/egohands/) - 48 videos of interactions between two people.
-- [DoMSEV](http://www.verlab.dcc.ufmg.br/semantic-hyperlapse/cvpr2018-dataset/) - 80 hours/different activities.
-- [DR(eye)VE](http://aimagelab.ing.unimore.it/dreyeve) - 74 videos of people driving.
-- [THU-READ](http://ivg.au.tsinghua.edu.cn/dataset/THU_READ.php) - 8 subjects performing 40 actions with a head-mounted RGBD camera.
-- [EgoDexter](https://handtracker.mpi-inf.mpg.de/projects/OccludedHands/EgoDexter.htm) - 4 sequences with 4 actors (2 female), and varying interactions with various objects and and cluttered background. [[paper]](https://handtracker.mpi-inf.mpg.de/projects/OccludedHands/index.htm)
-- [First-Person Hand Action (FPHA)](https://guiggh.github.io/publications/first-person-hands/) - 3D hand-object interaction. Includes 1175 videos belonging to 45 different activity categories performed by 6 actors. [[paper]](https://arxiv.org/pdf/1704.02463.pdf)
-- [UTokyo Paired Ego-Video (PEV)](https://yonetaniryo.github.io/fpv_data.html) - 1,226 pairs of first-person clips extracted from the ones recorded synchronously during dyadic conversations.
-- [UTokyo Ego-Surf](https://yonetaniryo.github.io/fpv_data.html) - Contains 8 diverse groups of first-person videos recorded synchronously during face-to-face conversations.
-- [TEgO: Teachable Egocentric Objects Dataset](https://iamlabumd.github.io/tego/) -  Contains egocentric images of 19 distinct objects taken by two people for training a teachable object recognizer.
-- [Multimodal Focused Interaction Dataset](https://cvip.computing.dundee.ac.uk/datasets/focusedinteraction/) - Contains 377 minutes of continuous multimodal recording captured during 19 sessions, with 17 conversational partners in 18 different indoor/outdoor locations.
-
 
 ## Challenges
 
 - [Ego4D](https://ego4d-data.org) - Episodic Memory, Hand-Object Interactions, AV Diarization, Social, Forecasting.
 
 - [Epic Kithchen Challenge](https://epic-kitchens.github.io/2021) - Action Recognition, Action Detection, Action Anticipation, Unsupervised Domain Adaptation for Action Recognition, Multi-Instance Retrieval
-
-## Devices
-
-- [GoPro](https://gopro.com/it/it/)
-- [Narrative clip](http://getnarrative.com/)
-- [Autographer5](https://en.wikipedia.org/wiki/Autographer)
-- [Microsoft SenseCam](https://www.microsoft.com/en-us/research/project/sensecam/)
-- [SMI eye-tracker](https://imotions.com/hardware/smi-eye-tracking-glasses/)
-- [ASL Mobile eye](https://est-kl.com/manufacturer/asl/mobile-eye-5.html)
-- [Tobii eye-tracker](https://www.tobii.com/)
-- [Pupil Invisible](https://pupil-labs.com/)
-- [Microsoft Hololens 2](https://www.microsoft.com/it-it/hololens/) 
-- [Google Glass](https://www.google.com/glass/start/)
-- [Vusix Blade](https://www.vuzix.com/products/vuzix-blade-smart-glasses-upgraded)
-- [Magic Leap](https://www.magicleap.com/)
-- [Nreal Light](https://www.nreal.ai/)
-- [Epson Moverio](https://www.epson.it/products/see-through-mobile-viewer)
-- [Realwear](https://www.realwear.com/)
-- [TCL Smart Glasses Thunderbird]
-- [OrCam](https://www.orcam.com/it/)
-- [Xiaomi Smart Glasses]
-- [Ray-Ban Stories](https://www.ray-ban.com/italy/ray-ban-stories)
-- [dynaEdge](https://it.dynabook.com/generic/dynaedge/)
-- [Apple Glass] 
-- [Alpha Glass]()
-- [GWD HiiDii](https://www.gwdbi.com/)
-- [Spectacles](https://www.spectacles.com/it/shop/spectacles-3/)
-
-
-
-
-
-This is a work in progress. 
