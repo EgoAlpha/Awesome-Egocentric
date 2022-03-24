@@ -11,10 +11,10 @@
         - [Long-Term Action Anticipation](#long-term-action-anticipation)
         - [Future Gaze Prediction](#future-gaze-prediction)
         - [Trajectory prediction](#trajectory-prediction)
-        - [Region prediction](region-prediction)
-    - [Multi-Modalities](multi-modalities)
-    - [Audio-Visual](audio-visual)
-    - [Depth](depth)
+        - [Region prediction](#region-prediction)
+    - [Multi-Modalities](#multi-modalities)
+    - [Audio-Visual](#audio-visual)
+    - [Depth](#depth)
 - [Challenges](#challenges)
 
 
