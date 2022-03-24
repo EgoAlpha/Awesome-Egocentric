@@ -2,16 +2,27 @@
 
 - [Surveys](#surveys) 
 - [Papers](#papers)
+    - [Episodic Memory](#episodic-memory)
+    - [Referring Image Segmentation](#referring-image-segmentation)
+    - [Video Captioning](#video-captioning)
+    - [Embodied Agent Learning](#embodied-agent-learning)
+        - [VLN (Vision-and-Language Navigation)](#vln-vision-and-language-navigation))
+    - [Egocentric Video Summarization]
+    - [Hand-Object Interactions / Human Object Interaction](#hand-object-interactions)
     - [Action/Activity Recognition](#actionactivity-recognition)
-    - [Hand-Object Interactions](#hand-object-interactions)
-    - [Usupervised Domain Adaptation](usupervised-domain-adaptation)
-    - [Domain Generalization](domain-generalization)
-    - [Action Anticipation](#action-anticipation)
+    - [Action Anticipation / Gaze Anticipation](#action-anticipation)
         - [Short-Term Action Anticipation](#short-term-action-anticipation)
         - [Long-Term Action Anticipation](#long-term-action-anticipation)
         - [Future Gaze Prediction](#future-gaze-prediction)
         - [Trajectory prediction](#trajectory-prediction)
         - [Region prediction](#region-prediction)
+    - [VQA (Visual Question Answering)](#vqa-visual-question-answering))
+    - [VLP (Language Pre-training)](#vlp-language-pre-training))
+
+
+    - [Usupervised Domain Adaptation](usupervised-domain-adaptation)
+    - [Domain Generalization](domain-generalization)
+
     - [Multi-Modalities](#multi-modalities)
         - [Audio-Visual](#audio-visual)
         - [Depth](#depth)
