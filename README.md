@@ -45,6 +45,7 @@
 ### Video Captioning 
 
 ### Embodied Agent Learning
+#### VLN (Vision-and-Language Navigation)
 
 ### Egocentric Video Summarization
 
@@ -54,9 +55,9 @@
 
 ### Action/Gaze Anticipation
 
-### VQA
+### VQA (Visual Question Answering) 
 
-### VLP
+### VLP (Language Pre-training)
 
 
 
