@@ -13,8 +13,8 @@
         - [Trajectory prediction](#trajectory-prediction)
         - [Region prediction](#region-prediction)
     - [Multi-Modalities](#multi-modalities)
-    - [Audio-Visual](#audio-visual)
-    - [Depth](#depth)
+        - [Audio-Visual](#audio-visual)
+        - [Depth](#depth)
 - [Challenges](#challenges)
 
 
