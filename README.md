@@ -64,7 +64,7 @@
 #### RL (Reinforcement Learning)
 
 - [Learning Navigation Subroutines from Egocentric Videos](http://proceedings.mlr.press/v100/kumar20a.html) - Ashish Kumar, Saurabh Gupta, Jitendra Malik,  Proceedings of the Conference on Robot Learning, PMLR 100:617-626, 2020.
-- [EgoMap: Projective mapping and structured egocentric memory for Deep RL](https://chriswolfvision.github.io/www/papers/ecml2020.pdf) [video](https://crossminds.ai/video/egomap-projective-mapping-and-structured-egocentric-memory-for-deep-rl-6070b29e769086b2fca172da/) CHROMA group.
+- [EgoMap: Projective mapping and structured egocentric memory for Deep RL](https://chriswolfvision.github.io/www/papers/ecml2020.pdf) Edward Beeching, Christian Wolf, Jilles Dibangoye, Olivier Simonin. [code](https://chriswolfvision.github.io/www/papers/ecml2020.pdf)   [video](https://crossminds.ai/video/egomap-projective-mapping-and-structured-egocentric-memory-for-deep-rl-6070b29e769086b2fca172da/) CHROMA group.
 - [Deep Reinforcement Learning on a Budget: 3D Control and Reasoning Without a Supercomputer]  CHROMA团队
 - [Environment predictive coding for embodied agents Santhosh]  K. Ramakrishnan
 - [An Exploration of Embodied Visual Exploration  Santhosh] K. Ramakrishnan
@@ -72,7 +72,6 @@
 - [Shaping embodied agent behavior with activity-context priors from egocentric video Tushar Nagarajan]
 - [Learning Affordance Landscapes for Interaction Exploration in 3D Environments Tushar Nagarajan]
 - [Explore and Explain: Self-supervised Navigation and Recounting]
-- []
 - [Embodied Visual Active Learning for Semantic Segmentation]
 - [IFR-Explore: Learning Inter-object Functional Relationships in 3D Indoor Scenes]
 - [Learning to Explore by Reinforcement over High-Level Options]
