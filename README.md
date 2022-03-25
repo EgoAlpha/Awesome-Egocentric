@@ -114,9 +114,11 @@
 
 - [Collaborative Visual Navigation](https://arxiv.org/abs/2107.01151) Haiyang Wang, Wenguan Wang, Xizhou Zhu, Jifeng Dai, Liwei Wang. Arxiv 2021.
 
-- [Interpretation of emergent communication in heterogeneous collaborative embodied agents]
-- [Agent-Centric Representations for Multi-Agent Reinforcement Learning ]
-- [GRIDTOPIX: Training Embodied Agents with Minimal Supervision]
+- [Interpretation of emergent communication in heterogeneous collaborative embodied agents](https://openaccess.thecvf.com/content/ICCV2021/html/Patel_Interpretation_of_Emergent_Communication_in_Heterogeneous_Collaborative_Embodied_Agents_ICCV_2021_paper.html) Shivansh Patel, Saim Wani, Unnat Jain, Alexander G. Schwing, Svetlana Lazebnik, Manolis Savva, Angel X. Chang; ICCV 2021.
+
+- [Agent-Centric Representations for Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2104.09402) Wenling Shang, Lasse Espeholt, Anton Raichuk, Tim Salimans. Arxiv 2021.
+
+- [GRIDTOPIX: Training Embodied Agents with Minimal Supervision](https://openaccess.thecvf.com/content/ICCV2021/html/Jain_GridToPix_Training_Embodied_Agents_With_Minimal_Supervision_ICCV_2021_paper.html) Unnat Jain, Iou-Jen Liu, Svetlana Lazebnik, Aniruddha Kembhavi, Luca Weihs, Alexander Schwing. ICCV 2021.
 
 
 ### Egocentric Video Summarization
