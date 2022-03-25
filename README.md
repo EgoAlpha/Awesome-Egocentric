@@ -183,7 +183,7 @@
 
 - [Dialog without Dialog Data: Learning Visual Dialog Agents from VQA Data.](https://arxiv.org/abs/2007.12750) Michael Cogswell, Jiasen Lu, Rishabh Jain, Stefan Lee, Devi Parikh, Dhruv Batra. Neural Information Processing Systems (NeurIPS), 2020.
 
--[Spatially Aware Multimodal Transformers for TextVQA.](https://arxiv.org/abs/2007.12146) Yash Kant, Dhruv Batra, Peter Anderson, Alex Schwing, Devi Parikh, Jiasen Lu, Harsh Agrawal. ECCV, 2020.
+- [Spatially Aware Multimodal Transformers for TextVQA.](https://arxiv.org/abs/2007.12146) Yash Kant, Dhruv Batra, Peter Anderson, Alex Schwing, Devi Parikh, Jiasen Lu, Harsh Agrawal. ECCV, 2020.
 
 - [Towards VQA Models That Can Read.](https://arxiv.org/abs/1904.08920) Amanpreet Singh, Vivek Natarajan, Meet Shah, Yu Jiang, Xinlei Chen, Dhruv Batra, Devi Parikh, Marcus Rohrbach. CVPR, 2019. [Deom](https://textvqa.org/)
 
