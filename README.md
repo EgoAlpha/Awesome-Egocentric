@@ -175,7 +175,6 @@
 - [Discriminative Feature Learning for Unsupervised Video Summarization](https://arxiv.org/pdf/1811.09791) Yunjae Jung, Donghyeon Cho, Dahun Kim, Sanghyun Woo, In So Kweon, AAAI 2018.
 
 
-### Action/Gaze Anticipation
 
 ### VQA (Visual Question Answering) 
 - [Graphhopper: Multi-Hop Scene Graph Reasoning for Visual Question Answering]( https://link.springer.com/content/pdf/10.1007%2F978-3-030-88361-4_7.pdf) - Rajat Koner, Hang Li, Marcel Hildebrandt, Deepan Das, Volker Tresp, Stephan Gunnemann ISWC 2021. [Code](https://github.com/rajatkoner08/Graphhopper)
