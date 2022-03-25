@@ -79,14 +79,23 @@
 - [Learning Affordance Landscapes for Interaction Exploration in 3D Environments](https://proceedings.neurips.cc/paper/2020/file/15825aee15eb335cc13f9b559f166ee8-Paper.pdf) Tushar Nagarajan, Kristen Grauman, NeurIPS 2020.
 
 
-- [Explore and Explain: Self-supervised Navigation and Recounting]
-- [Embodied Visual Active Learning for Semantic Segmentation]
-- [IFR-Explore: Learning Inter-object Functional Relationships in 3D Indoor Scenes]
-- [Learning to Explore by Reinforcement over High-Level Options]
-- [SEAL: Self-supervised Embodied Active Learning using Exploration and 3D Consistency]
-- [Embodied Learning for Lifelong Visual Perception]
-- [Learning Exploration Policies for Navigation]
-- [PLEX: PLanner and EXecutor for Embodied Learning in Navigation]
+- [Explore and Explain: Self-supervised Navigation and Recounting](https://ieeexplore.ieee.org/abstract/document/9412628)  Roberto Bigazzi; Federico Landi; Marcella Cornia; Silvia Cascianelli; Lorenzo Baraldi; Rita Cucchiara. ICPR 2021
+
+- [Embodied Visual Active Learning for Semantic Segmentation](https://ojs.aaai.org/index.php/AAAI/article/view/16338) David Nilsson, Aleksis Pirinen, Erik Gärtner, Cristian Sminchisescu, AAAI 2021.
+
+- [IFR-Explore: Learning Inter-object Functional Relationships in 3D Indoor Scenes](https://arxiv.org/abs/2112.05298) Qi Li, Kaichun Mo, Yanchao Yang, Hang Zhao, Leonidas Guibas. Arxiv 2021.
+
+
+- [Learning to Explore by Reinforcement over High-Level Options](https://arxiv.org/pdf/2111.01364) Liu Juncheng, McCane Brendan, Mills Steven. Arxiv 2021.
+
+- [SEAL: Self-supervised Embodied Active Learning using Exploration and 3D Consistency] Devendra Singh Chaplot, Murtaza Dalal, Saurabh Gupta, Jitendra Malik, Russ R. Salakhutdinov, NeurIPS 2021.
+
+- [Embodied Learning for Lifelong Visual Perception](https://arxiv.org/pdf/2112.14084) David Nilsson, Aleksis Pirinen, Erik Gärtner, Cristian Sminchisescu. Arxiv 2021.
+
+- [Learning Exploration Policies for Navigation] Tao Chen, Saurabh Gupta, Abhinav Gupta. ICLR 2019. [video](https://sites.google.com/view/exploration-for-nav/)
+
+- [PLEX: PLanner and EXecutor for Embodied Learning in Navigation](https://openreview.net/pdf?id=r1g7xT4Kwr) G Avraham, Y Zuo, T Drummond.
+
 - [RoboTHOR: An Open Simulation-to-Real Embodied AI Platform] 一个环境
 - [iGibson: A Simulation Environment to train Robots in Large Realistic Interactive Scenes] 一个环境
 - [Self-Supervised Visual Reinforcement Learning with Object-Centric Representations] (SMORL) 
