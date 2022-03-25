@@ -85,14 +85,14 @@
 
 
 #### MARL (Multiagent Reinforcement Learning)
-A Cordial Sync: Going Beyond Marginal Policies for Multi-agent Embodied Tasks furnmove; Author: Unnat Jain
-Two Body Problem: Collaborative Visual Task Completion furnlift; Author: Unnat Jain
-Multi-Agent Embodied Visual Semantic Navigation with Scene Prior Knowledge; Author: Xinzhu Liu
-Semantic Tracklets: An Object-Centric Representation for Visual Multi-Agent Reinforcement Learning 一种面向对象
-Collaborative Visual Navigation
-Interpretation of emergent communication in heterogeneous collaborative embodied agents
-Agent-Centric Representations for Multi-Agent Reinforcement Learning 
-GRIDTOPIX: Training Embodied Agents with Minimal Supervision
+- [A Cordial Sync: Going Beyond Marginal Policies for Multi-agent Embodied Tasks furnmove; Author: Unnat Jain]
+- [Two Body Problem: Collaborative Visual Task Completion furnlift; Author: Unnat Jain]
+- [Multi-Agent Embodied Visual Semantic Navigation with Scene Prior Knowledge; Author: Xinzhu Liu]
+- [Semantic Tracklets: An Object-Centric Representation for Visual Multi-Agent Reinforcement Learning 一种面向对象]
+- [Collaborative Visual Navigation]
+- [Interpretation of emergent communication in heterogeneous collaborative embodied agents]
+- [Agent-Centric Representations for Multi-Agent Reinforcement Learning ]
+- [GRIDTOPIX: Training Embodied Agents with Minimal Supervision]
 
 
 ### Egocentric Video Summarization
