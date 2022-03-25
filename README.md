@@ -104,11 +104,16 @@
 
 
 #### MARL (Multiagent Reinforcement Learning)
-- [A Cordial Sync: Going Beyond Marginal Policies for Multi-agent Embodied Tasks furnmove; Author: Unnat Jain]
-- [Two Body Problem: Collaborative Visual Task Completion furnlift; Author: Unnat Jain]
-- [Multi-Agent Embodied Visual Semantic Navigation with Scene Prior Knowledge; Author: Xinzhu Liu]
-- [Semantic Tracklets: An Object-Centric Representation for Visual Multi-Agent Reinforcement Learning 一种面向对象]
-- [Collaborative Visual Navigation]
+- [A Cordial Sync: Going Beyond Marginal Policies for Multi-agent Embodied Tasks furnmove](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500460.pdf) [Code](https://github.com/allenai/cordial-sync) Jain, Unnat and Weihs, Luca and Kolve, Eric and Farhadi, Ali and Lazebnik, Svetlana and Kembhavi, Aniruddha and Schwing, Alexander G. ECCV 2020.
+
+- [Two Body Problem: Collaborative Visual Task Completion furnlift](https://arxiv.org/pdf/1904.05879) Jain, Unnat and Weihs, Luca and Kolve, Eric and Rastegari, Mohammad and Lazebnik, Svetlana and Farhadi, Ali and Schwing, Alexander G. and Kembhavi, Aniruddha. CVPR 2019.
+
+- [Multi-Agent Embodied Visual Semantic Navigation with Scene Prior Knowledge; Author: Xinzhu Liu](https://arxiv.org/pdf/2109.09531) Xinzhu Liu; Di Guo; Huaping Liu; Fuchun Sun; IEEE Robotics and Automation Letters, 2022.
+
+- [Semantic Tracklets: An Object-Centric Representation for Visual Multi-Agent Reinforcement Learning](https://ioujenliu.github.io/SemanticTracklets/files/semantic_tracklets_iros21.pdf) Iou-Jen Liu; Zhongzheng Ren; Raymond A. Yeh; Alexander G. Schwing. IROS 2021.
+
+- [Collaborative Visual Navigation](https://arxiv.org/abs/2107.01151) Haiyang Wang, Wenguan Wang, Xizhou Zhu, Jifeng Dai, Liwei Wang. Arxiv 2021.
+
 - [Interpretation of emergent communication in heterogeneous collaborative embodied agents]
 - [Agent-Centric Representations for Multi-Agent Reinforcement Learning ]
 - [GRIDTOPIX: Training Embodied Agents with Minimal Supervision]
