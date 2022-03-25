@@ -7,6 +7,7 @@
     - [Video Captioning](#video-captioning)
     - [Embodied Agent Learning](#embodied-agent-learning)
         - [VLN (Vision-and-Language Navigation)](#vln-vision-and-language-navigation))
+        - [RL (Reinforcement Learning)](#rl-reinforcement-learning))
         - [MARL (Multiagent Reinforcement Learning)](#marl-multiagent-reinforcement-learning))
     - [Egocentric Video Summarization](#egocentric-video-summarization)
     - [Hand-Object Interactions / Human Object Interaction](#hand-object-interactions)
