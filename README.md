@@ -59,9 +59,12 @@
 
 ### Embodied Agent Learning
 #### VLN (Vision-and-Language Navigation)
-- [Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments] Anderson et al. CVPR 2018
-- [Vision-and-Dialog Navigation] Thomason et al. CoRL 2019
-- [Speaker-Follower Model for Vision-and-Language Navigation] Fried et al. NeurIPS 2018
+- [Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments] Peter Anderson, Qi Wu, Damien Teney, Jake Bruce, Mark Johnson, Niko Sünderhauf, Ian Reid, Stephen Gould, Anton van den Hengel. CVPR 2018. [Video](https://www.youtube.com/watch?v=Jl1NeziAHFY&list=PL_bDvITUYucCIT8iNGW8zCXeY5_u6hg-y&index=22&t=0s)
+
+- [Vision-and-Dialog Navigation](http://proceedings.mlr.press/v100/thomason20a.html) Jesse Thomason, Michael Murray, Maya Cakmak, Luke Zettlemoyer Proceedings of the Conference on Robot Learning, PMLR 100:394-406, 2020. [Video](https://www.youtube.com/watch?v=BonlITv_PKw&feature=youtu.be)
+
+- [Speaker-Follower Model for Vision-and-Language Navigation](https://proceedings.neurips.cc/paper/2018/hash/6a81681a7af700c6385d36577ebec359-Abstract.html) Daniel Fried, Ronghang Hu, Volkan Cirik, Anna Rohrbach, Jacob Andreas, Louis-Philippe Morency, Taylor Berg-Kirkpatrick, Kate Saenko, Dan Klein, Trevor Darrell. NeurIPS 2018.
+
 - [Reinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation] Wang et al. CVPR 2019
 - [Learning to Navigate Unseen Environment: Back Translation with Environment Dropout] Tan and Bansal, NAACL 2019
 - [Counterfactual Vision-and-Language Navigation via Adversarial Path Sampling] Fu et al. ECCV 2020
