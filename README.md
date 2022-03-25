@@ -59,6 +59,14 @@
 
 ### Embodied Agent Learning
 #### VLN (Vision-and-Language Navigation)
+- [Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments] Anderson et al. CVPR 2018
+- [Vision-and-Dialog Navigation] Thomason et al. CoRL 2019
+- [Speaker-Follower Model for Vision-and-Language Navigation] Fried et al. NeurIPS 2018
+- [Reinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation] Wang et al. CVPR 2019
+- [Learning to Navigate Unseen Environment: Back Translation with Environment Dropout] Tan and Bansal, NAACL 2019
+- [Counterfactual Vision-and-Language Navigation via Adversarial Path Sampling] Fu et al. ECCV 2020
+- [Environment-agnostic Multitask Learning for Natural Language Grounded Navigation] Wang et al. ECCV 2020
+- [Multimodal Text Style Transfer for Outdoor Vision-and-Language Navigation] Zhu et al. EACL 2021
 - [Communicative Learning with Natural Gestures for Embodied Navigation Agents with Human-in-the-Scene](https://ieeexplore.ieee.org/abstract/document/9636208) -  Qi Wu, Cheng-Ju (Jimmy) Wu, Yixin Zhu, and Jungseock Joo, IROS, 2021. [code](https://github.com/qiwu57kevin/iros2021-gesthor)
 
 #### RL (Reinforcement Learning)
