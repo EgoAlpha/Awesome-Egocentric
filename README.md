@@ -64,13 +64,21 @@
 #### RL (Reinforcement Learning)
 
 - [Learning Navigation Subroutines from Egocentric Videos](http://proceedings.mlr.press/v100/kumar20a.html) - Ashish Kumar, Saurabh Gupta, Jitendra Malik,  Proceedings of the Conference on Robot Learning, PMLR 100:617-626, 2020.
+
 - [EgoMap: Projective mapping and structured egocentric memory for Deep RL](https://chriswolfvision.github.io/www/papers/ecml2020.pdf) Edward Beeching, Christian Wolf, Jilles Dibangoye, Olivier Simonin. ECML PKDD 2020. [code](https://chriswolfvision.github.io/www/papers/ecml2020.pdf)   [video](https://crossminds.ai/video/egomap-projective-mapping-and-structured-egocentric-memory-for-deep-rl-6070b29e769086b2fca172da/) CHROMA group.
+
 - [Deep Reinforcement Learning on a Budget: 3D Control and Reasoning Without a Supercomputer](https://ieeexplore.ieee.org/abstract/document/9412212/) Beeching, Edward; Wolf, Christian; Dibangoye, Jilles; Simonin, Olivier, CHROMA group. ICPR 2021.
-- [Environment predictive coding for embodied agents Santhosh]  K. Ramakrishnan
-- [An Exploration of Embodied Visual Exploration  Santhosh] K. Ramakrishnan
-- [Environment Predictive Coding for Embodied Agents Santhosh] K. Ramakrishnan
-- [Shaping embodied agent behavior with activity-context priors from egocentric video Tushar Nagarajan]
-- [Learning Affordance Landscapes for Interaction Exploration in 3D Environments Tushar Nagarajan]
+
+- [Environment predictive coding for embodied agents Santhosh](https://arxiv.org/pdf/2102.02337.pdf)  Santhosh K. Ramakrishnan, Tushar Nagarajan, Ziad Al-Halah, Kristen Grauman. CoRR abs/2102.02337 (2021)
+
+- [An Exploration of Embodied Visual Exploration](https://link.springer.com/content/pdf/10.1007/s11263-021-01437-z.pdf)  Santhosh K. Ramakrishnan, Dinesh Jayaraman & Kristen Grauman.
+
+
+- [Shaping embodied agent behavior with activity-context priors from egocentric video](https://proceedings.neurips.cc/paper/2021/hash/f8b7aa3a0d349d9562b424160ad18612-Abstract.html) Tushar Nagarajan, Kristen Grauman. NeurIPS 2021.
+
+- [Learning Affordance Landscapes for Interaction Exploration in 3D Environments](https://proceedings.neurips.cc/paper/2020/file/15825aee15eb335cc13f9b559f166ee8-Paper.pdf) Tushar Nagarajan, Kristen Grauman, NeurIPS 2020.
+
+
 - [Explore and Explain: Self-supervised Navigation and Recounting]
 - [Embodied Visual Active Learning for Semantic Segmentation]
 - [IFR-Explore: Learning Inter-object Functional Relationships in 3D Indoor Scenes]
