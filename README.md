@@ -3,6 +3,7 @@
 - [Surveys](#surveys) 
 - [Papers](#papers)
     - [Episodic Memory](#episodic-memory)
+        - [Moments Queries](#moments-queries)
     - [Referring Image Segmentation](#referring-image-segmentation)
     - [Video Captioning](#video-captioning)
     - [Embodied Agent Learning](#embodied-agent-learning)
@@ -52,6 +53,24 @@
 
 
 ### Episodic Memory
+#### Moments Queries
+- [Action Completion: A Temporal Model for Moment Detection](https://arxiv.org/pdf/1805.06749) Farnoosh Heidarivincheh, Majid Mirmehdi and Dima Damen. BMVC 2018.
+- [HMDB: a large video database for human motion recognition](https://dspace.mit.edu/bitstream/handle/1721.1/69981/Poggio-HMDB.pdf?sequence=1&isAllowed=y) H. Kuehne, H. Jhuang, E. Garrote, T. Poggio, and T. Serre.ICCV, 2011.
+- [Beyond Action Recognition: Action Completion in RGB-D Data](https://dimadamen.github.io/ActionCompletion/ActionCompletion_BMVC2016.pdf)  Farnoosh Heidarivincheh, Majid Mirmehdi and Dima Damen. BMVC 2016.
+- [With a Little Help from my Temporal Context: Multimodal Egocentric Action Recognition](https://arxiv.org/abs/2111.01024) E Kazakos, J Huh, A Nagrani, A Zisserman, D Damen. BMVC 2021. [Project](https://ekazakos.github.io/MTCN-project/) [Code](https://github.com/ekazakos/MTCN)
+- [Rescaling Egocentric Vision: Collection, Pipeline and Challenges for EPIC-KITCHENS-100](https://link.springer.com/content/pdf/10.1007/s11263-021-01531-2.pdf) D Damen, H Doughty, G Farinella, A Furnari, E Kazakos, J Ma, D Moltisanti, J Munro, T Perrett, W Price, M Wray. IJCV 2022.
+- [The EPIC-KITCHENS Dataset: Collection, Challenges and Baselines.](https://arxiv.org/abs/2005.00343) 
+ D Damen, H Doughty, GM Farinella, S Fidler, A Furnari, E Kazakos, D Moltisanti, J Munro, T Perrett, W Price, M Wray. IEEE Transactions on Pattern Analysis and Machine Intelligence 43(11) pp 4125-4141 (2021).
+
+
+
+.
+
+
+
+
+
+
 
 ### Referring Image Segmentation
 
