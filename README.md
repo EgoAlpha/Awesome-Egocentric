@@ -67,11 +67,14 @@
 
 - [Reinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation](https://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Reinforced_Cross-Modal_Matching_and_Self-Supervised_Imitation_Learning_for_Vision-Language_Navigation_CVPR_2019_paper.html) Xin Wang, Qiuyuan Huang, Asli Celikyilmaz, Jianfeng Gao, Dinghan Shen, Yuan-Fang Wang, William Yang Wang, Lei Zhang. CVPR 2019
 
-- [Learning to Navigate Unseen Environment: Back Translation with Environment Dropout] Hao Tan, Licheng Yu, Mohit Bansal, NAACL 2019 [code](https://github.com/airsplay/R2R-EnvDrop)
+- [Learning to Navigate Unseen Environment: Back Translation with Environment Dropout](https://aclanthology.org/N19-1268.pdf) Hao Tan, Licheng Yu, Mohit Bansal, NAACL 2019 [code](https://github.com/airsplay/R2R-EnvDrop)
 
-- [Counterfactual Vision-and-Language Navigation via Adversarial Path Sampling] Fu et al. ECCV 2020
-- [Environment-agnostic Multitask Learning for Natural Language Grounded Navigation] Wang et al. ECCV 2020
-- [Multimodal Text Style Transfer for Outdoor Vision-and-Language Navigation] Zhu et al. EACL 2021
+- [Counterfactual Vision-and-Language Navigation via Adversarial Path Sampling](https://tsujuifu.github.io/pubs/eccv20_aps.pdf) Tsu-Jui FuEmail authorXin Eric WangMatthew F. PetersonScott T. GraftonMiguel P. EcksteinWilliam Yang Wang. ECCV 2020
+
+- [Environment-agnostic Multitask Learning for Natural Language Grounded Navigation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690409.pdf) Xin Eric WangEmail authorVihan JainEugene IeWilliam Yang WangZornitsa KozarevaSujith Ravi. ECCV 2020
+
+- [Multimodal Text Style Transfer for Outdoor Vision-and-Language Navigation](https://arxiv.org/pdf/2007.00229) Wanrong Zhu, Xin Eric Wang, Tsu-Jui Fu, An Yan, Pradyumna Narayana, Kazoo Sone, Sugato Basu, William Yang Wang. EACL 2021.
+
 - [Communicative Learning with Natural Gestures for Embodied Navigation Agents with Human-in-the-Scene](https://ieeexplore.ieee.org/abstract/document/9636208) -  Qi Wu, Cheng-Ju (Jimmy) Wu, Yixin Zhu, and Jungseock Joo, IROS, 2021. [code](https://github.com/qiwu57kevin/iros2021-gesthor)
 
 #### RL (Reinforcement Learning)
