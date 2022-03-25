@@ -61,7 +61,9 @@
 Communicative Learning with Natural Gestures for Embodied Navigation Agents with Human-in-the-Scene
 
 #### RL (Reinforcement Learning)
-Learning Navigation Subroutines from Egocentric Videos
+
+- [Learning Navigation Subroutines from Egocentric Videos](http://proceedings.mlr.press/v100/kumar20a.html) - Ashish Kumar, Saurabh Gupta, Jitendra Malik,  Proceedings of the Conference on Robot Learning, PMLR 100:617-626, 2020.
+- 
 EgoMap: Projective mapping and structured egocentric memory for Deep RL   CHROMA团队
 Deep Reinforcement Learning on a Budget: 3D Control and Reasoning Without a Supercomputer  CHROMA团队
 Environment predictive coding for embodied agents Santhosh K. Ramakrishnan
