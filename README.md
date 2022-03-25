@@ -58,7 +58,7 @@
 
 ### Embodied Agent Learning
 #### VLN (Vision-and-Language Navigation)
-Communicative Learning with Natural Gestures for Embodied Navigation Agents with Human-in-the-Scene
+- [Communicative Learning with Natural Gestures for Embodied Navigation Agents with Human-in-the-Scene](https://ieeexplore.ieee.org/abstract/document/9636208) -  Qi Wu, Cheng-Ju (Jimmy) Wu, Yixin Zhu, and Jungseock Joo, IROS, 2021. [code](https://github.com/qiwu57kevin/iros2021-gesthor)
 
 #### RL (Reinforcement Learning)
 
