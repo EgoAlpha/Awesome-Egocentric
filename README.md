@@ -148,7 +148,9 @@
 ### VQA (Visual Question Answering) 
 - [Graphhopper: Multi-Hop Scene Graph Reasoning for Visual Question Answering]( https://link.springer.com/content/pdf/10.1007%2F978-3-030-88361-4_7.pdf) - Rajat Koner, Hang Li, Marcel Hildebrandt, Deepan Das, Volker Tresp, Stephan Gunnemann ISWC 2021. [Code](https://github.com/rajatkoner08/Graphhopper)
 
-- 
+- [Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering](https://openaccess.thecvf.com/content_cvpr_2017/html/Goyal_Making_the_v_CVPR_2017_paper.html) - Yash Goyal, Tejas Khot, Douglas Summers-Stay, Dhruv Batra, Devi Parikh. CVPR 2017.
+
+- [Yin and Yang: Balancing and Answering Binary Visual Questions](https://openaccess.thecvf.com/content_cvpr_2016/html/Zhang_Yin_and_Yang_CVPR_2016_paper.html) Peng Zhang, Yash Goyal, Douglas Summers-Stay, Dhruv Batra, Devi Parikh. CVPR 2016.
 
 ### VLP (Language Pre-training)
 
