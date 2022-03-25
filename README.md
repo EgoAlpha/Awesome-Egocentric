@@ -175,8 +175,6 @@
 - [Discriminative Feature Learning for Unsupervised Video Summarization](https://arxiv.org/pdf/1811.09791) Yunjae Jung, Donghyeon Cho, Dahun Kim, Sanghyun Woo, In So Kweon, AAAI 2018.
 
 
-### Action/Activity Recognition
-
 ### Action/Gaze Anticipation
 
 ### VQA (Visual Question Answering) 
