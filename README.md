@@ -162,6 +162,14 @@
 
 ### Egocentric Video Summarization
 
+- [Video Summarization Using Deep Neural Networks: A Survey](https://ieeexplore.ieee.org/abstract/document/9594911) Evlampios Apostolidis; Eleni Adamantidou; Alexandros I. Metsai; Vasileios Mezaris; Ioannis Patras. Proceedings of the IEEE 2021.
+
+- [Summarizing Videos with Attention](https://arxiv.org/pdf/1812.01969) Asian Conference on Computer Vision 2018. [Code](https://github.com/ok1zjf/VASNet)
+
+- [Supervised Video Summarization via Multiple Feature Sets with Parallel Attention](https://arxiv.org/pdf/2104.11530.pdf&nbsp;&nbsp) Junaid Ahmed Ghauri; Sherzod Hakimov; Ralph Ewerth, ICME 2021. [Code](https://github.com/TIBHannover/MSVA)
+
+- [Discriminative Feature Learning for Unsupervised Video Summarization](https://arxiv.org/pdf/1811.09791) Yunjae Jung, Donghyeon Cho, Dahun Kim, Sanghyun Woo, In So Kweon, AAAI 2018.
+
 ### Human Object Interaction
 
 ### Action/Activity Recognition
