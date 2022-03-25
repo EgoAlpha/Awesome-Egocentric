@@ -20,7 +20,7 @@
         - [Trajectory prediction](#trajectory-prediction)
         - [Region prediction](#region-prediction)
     - [VQA (Visual Question Answering)](#vqa-visual-question-answering))
-    - [VLP (Language Pre-training)](#vlp-language-pre-training)
+    - [VLP (Vision-Language Pretraining)](#vlp-vision-language-pretraining)
     - [Usupervised Domain Adaptation](#usupervised-domain-adaptation)
     - [Domain Generalization](#domain-generalization)
     - [Multi-Modalities](#multi-modalities)
@@ -201,7 +201,7 @@
 
 
 
-### VLP (Language Pre-training)
+### VLP (Vision Language Pretraining)
 
    - [Vision-Language Pretraining](#vision-language-pretraining)
 
