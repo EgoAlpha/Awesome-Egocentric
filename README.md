@@ -88,16 +88,18 @@
 
 - [Learning to Explore by Reinforcement over High-Level Options](https://arxiv.org/pdf/2111.01364) Liu Juncheng, McCane Brendan, Mills Steven. Arxiv 2021.
 
-- [SEAL: Self-supervised Embodied Active Learning using Exploration and 3D Consistency] Devendra Singh Chaplot, Murtaza Dalal, Saurabh Gupta, Jitendra Malik, Russ R. Salakhutdinov, NeurIPS 2021.
+- [SEAL: Self-supervised Embodied Active Learning using Exploration and 3D Consistency](https://proceedings.neurips.cc/paper/2021/hash/6d0c932802f6953f70eb20931645fa40-Abstract.html) Devendra Singh Chaplot, Murtaza Dalal, Saurabh Gupta, Jitendra Malik, Russ R. Salakhutdinov, NeurIPS 2021.
 
 - [Embodied Learning for Lifelong Visual Perception](https://arxiv.org/pdf/2112.14084) David Nilsson, Aleksis Pirinen, Erik Gärtner, Cristian Sminchisescu. Arxiv 2021.
 
-- [Learning Exploration Policies for Navigation] Tao Chen, Saurabh Gupta, Abhinav Gupta. ICLR 2019. [video](https://sites.google.com/view/exploration-for-nav/)
+- [Learning Exploration Policies for Navigation](https://arxiv.org/pdf/1903.01959) Tao Chen, Saurabh Gupta, Abhinav Gupta. ICLR 2019. [video](https://sites.google.com/view/exploration-for-nav/)
 
 - [PLEX: PLanner and EXecutor for Embodied Learning in Navigation](https://openreview.net/pdf?id=r1g7xT4Kwr) G Avraham, Y Zuo, T Drummond.
 
-- [RoboTHOR: An Open Simulation-to-Real Embodied AI Platform] 一个环境
-- [iGibson: A Simulation Environment to train Robots in Large Realistic Interactive Scenes] 一个环境
+- [RoboTHOR: An Open Simulation-to-Real Embodied AI Platform](https://openaccess.thecvf.com/content_CVPR_2020/html/Deitke_RoboTHOR_An_Open_Simulation-to-Real_Embodied_AI_Platform_CVPR_2020_paper.html)Matt Deitke, Winson Han, Alvaro Herrasti, Aniruddha Kembhavi, Eric Kolve, Roozbeh Mottaghi, Jordi Salvador, Dustin Schwenk, Eli VanderBilt, Matthew Wallingford, Luca Weihs, Mark Yatskar, Ali Farhadi. CVPR 2020. 
+
+- [iGibson: A Simulation Environment to train Robots in Large Realistic Interactive Scenes] Chengshu Li and Fei Xia and Roberto Mart\'in-Mart\'in and Michael Lingelbach and Sanjana Srivastava and Bokui Shen and Kent Vainio and Cem Gokmen and Gokul Dharan and Tanish Jain and Andrey Kurenkov and Karen Liu and Hyowon Gweon and Jiajun Wu and Li Fei-Fei and Silvio Savarese. [Demo](http://svl.stanford.edu/igibson/)
+
 - [Self-Supervised Visual Reinforcement Learning with Object-Centric Representations] (SMORL) 
 
 
