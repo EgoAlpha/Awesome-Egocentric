@@ -204,34 +204,34 @@
 ### VLP (Language Pre-training)
 
    - [Vision-Language Pretraining](#vision-language-pretraining)
-   -
+
       - [ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks [NeurIPS 2019]](#vilbert-pretraining-task-agnostic-visiolinguistic-representations-for-vision-and-language-tasks-neurips-2019)
       
       - [LXMERT: Learning Cross-Modality Encoder Representations from Transformers [EMNLP 2019]](#lxmert-learning-cross-modality-encoder-representations-from-transformers-emnlp-2019)
       
-    - [VisualBERT: A Simple and Performant Baseline for Vision and Language [arXiv 2019/08, ACL 2020]](#visualbert-a-simple-and-performant-baseline-for-vision-and-language-arxiv-201908-acl-2020)
-    
-    - [VL-BERT: Pre-training of Generic Visual-Linguistic Representations [ICLR 2020]](#vl-bert-pre-training-of-generic-visual-linguistic-representations-iclr-2020)
-    
-    - [Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training [AAAI 2020]](#unicoder-vl-a-universal-encoder-for-vision-and-language-by-cross-modal-pre-training-aaai-2020)
-    
-    - [Unified Vision-Language Pre-Training for Image Captioning and VQA [AAAI 2020]](#unified-vision-language-pre-training-for-image-captioning-and-vqa-aaai-2020)
-    
-    - [UNITER: Learning Universal Image-text Representations [ECCV 2020]](#uniter-learning-universal-image-text-representations-eccv-2020)
-    
-    - [Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks [arXiv 2020/04, ECCV 2020]](#oscar-object-semantics-aligned-pre-training-for-vision-language-tasks-arxiv-202004-eccv-2020)
-    
-    - [Learning Transferable Visual Models From Natural Language Supervision [OpenAI papers 2021/01]](#learning-transferable-visual-models-from-natural-language-supervision-openai-papers-202101)
+      - [VisualBERT: A Simple and Performant Baseline for Vision and Language [arXiv 2019/08, ACL 2020]](#visualbert-a-simple-and-performant-baseline-for-vision-and-language-arxiv-201908-acl-2020)
+
+      - [VL-BERT: Pre-training of Generic Visual-Linguistic Representations [ICLR 2020]](#vl-bert-pre-training-of-generic-visual-linguistic-representations-iclr-2020)
+
+      - [Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training [AAAI 2020]](#unicoder-vl-a-universal-encoder-for-vision-and-language-by-cross-modal-pre-training-aaai-2020)
+
+      - [Unified Vision-Language Pre-Training for Image Captioning and VQA [AAAI 2020]](#unified-vision-language-pre-training-for-image-captioning-and-vqa-aaai-2020)
+
+      - [UNITER: Learning Universal Image-text Representations [ECCV 2020]](#uniter-learning-universal-image-text-representations-eccv-2020)
+
+      - [Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks [arXiv 2020/04, ECCV 2020]](#oscar-object-semantics-aligned-pre-training-for-vision-language-tasks-arxiv-202004-eccv-2020)
+
+      - [Learning Transferable Visual Models From Natural Language Supervision [OpenAI papers 2021/01]](#learning-transferable-visual-models-from-natural-language-supervision-openai-papers-202101)
     
   - [Video-Language Pretraining](#video-language-pretraining)
   
-    - [VideoBERT: A Joint Model for Video and Language Representation Learning [ICCV 2019]](#videobert-a-joint-model-for-video-and-language-representation-learning-iccv-2019)
+      - [VideoBERT: A Joint Model for Video and Language Representation Learning [ICCV 2019]](#videobert-a-joint-model-for-video-and-language-representation-learning-iccv-2019)
     
-    - [Multi-modal Transformer for Video Retrieval [ECCV 2020]](#multi-modal-transformer-for-video-retrieval-eccv-2020)
+      - [Multi-modal Transformer for Video Retrieval [ECCV 2020]](#multi-modal-transformer-for-video-retrieval-eccv-2020)
     
-    - [HERO: Hierarchical Encoder for Video+Language Omni-representation Pre-training [EMNLP 2020]](#hero-hierarchical-encoder-for-videolanguage-omni-representation-pre-training-emnlp-2020)
+      - [HERO: Hierarchical Encoder for Video+Language Omni-representation Pre-training [EMNLP 2020]](#hero-hierarchical-encoder-for-videolanguage-omni-representation-pre-training-emnlp-2020)
     
-    - [UniVL: A Unified Video and Language Pre-Training Model for Multimodal Understanding and Generation](#univl-a-unified-video-and-language-pre-training-model-for-multimodal-understanding-and-generation)
+      - [UniVL: A Unified Video and Language Pre-Training Model for Multimodal Understanding and Generation](#univl-a-unified-video-and-language-pre-training-model-for-multimodal-understanding-and-generation)
 
 
 
