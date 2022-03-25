@@ -148,9 +148,27 @@
 ### VQA (Visual Question Answering) 
 - [Graphhopper: Multi-Hop Scene Graph Reasoning for Visual Question Answering]( https://link.springer.com/content/pdf/10.1007%2F978-3-030-88361-4_7.pdf) - Rajat Koner, Hang Li, Marcel Hildebrandt, Deepan Das, Volker Tresp, Stephan Gunnemann ISWC 2021. [Code](https://github.com/rajatkoner08/Graphhopper)
 
-- [Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering](https://openaccess.thecvf.com/content_cvpr_2017/html/Goyal_Making_the_v_CVPR_2017_paper.html) - Yash Goyal, Tejas Khot, Douglas Summers-Stay, Dhruv Batra, Devi Parikh. CVPR 2017.
+- [Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering](https://openaccess.thecvf.com/content_cvpr_2017/html/Goyal_Making_the_v_CVPR_2017_paper.html) - Yash Goyal, Tejas Khot, Douglas Summers-Stay, Dhruv Batra, Devi Parikh. CVPR 2017. [Demo](https://www.youtube.com/watch?v=nMr_sSAMpkE) [Project](http://visualqa.org/)
 
 - [Yin and Yang: Balancing and Answering Binary Visual Questions](https://openaccess.thecvf.com/content_cvpr_2016/html/Zhang_Yin_and_Yang_CVPR_2016_paper.html) Peng Zhang, Yash Goyal, Douglas Summers-Stay, Dhruv Batra, Devi Parikh. CVPR 2016.
+
+- [Reframing explanation as an interactive medium: The EQUAS (Explainable QUestion Answering System) project](https://onlinelibrary.wiley.com/doi/pdf/10.1002/ail2.60) William Ferguson, Dhruv Batra, Raymond Mooney, Devi Parikh, Antonio Torralba, David Bau, David Diller, Josh Fasching, Jaden Fiotto‐Kaufman, Yash Goyal, Jeff Miller, Kerry Moffitt, Alex Montes de Oca, Ramprasaath R Selvaraju, Ayush Shrivastava, Jialin Wu, Stefan Lee. Applied AI Letters 2021.
+
+- [Question-conditioned counterfactual image generation for vqa](https://arxiv.org/pdf/1911.06352) Jingjing Pan, Yash Goyal, Stefan Lee, Arxiv 2019.
+
+- [Towards transparent ai systems: Interpreting visual question answering models](https://arxiv.org/pdf/1608.08974) Y Goyal, A Mohapatra, D Parikh, D Batra. Arxiv 2016.
+
+- [SOrT-ing VQA Models: Contrastive Gradient Learning for Improved Consistency](https://arxiv.org/abs/2010.10038) Sameer Dharur, Purva Tendulkar, Dhruv Batra, Devi Parikh, Ramprasaath R. Selvaraju. NAACL, 2021.
+
+- [Contrast and Classify: Training Robust VQA Models.](https://arxiv.org/abs/2010.06087) Yash Kant, Abhinav Moudgil, Dhruv Batra, Devi Parikh, Harsh Agrawal. International Conference on Computer Vision (ICCV), 2021.
+
+- [Dialog without Dialog Data: Learning Visual Dialog Agents from VQA Data.](https://arxiv.org/abs/2007.12750) Michael Cogswell, Jiasen Lu, Rishabh Jain, Stefan Lee, Devi Parikh, Dhruv Batra. Neural Information Processing Systems (NeurIPS), 2020.
+
+-[Spatially Aware Multimodal Transformers for TextVQA.](https://arxiv.org/abs/2007.12146) Yash Kant, Dhruv Batra, Peter Anderson, Alex Schwing, Devi Parikh, Jiasen Lu, Harsh Agrawal. ECCV, 2020.
+
+- [Towards VQA Models That Can Read.](https://arxiv.org/abs/1904.08920) Amanpreet Singh, Vivek Natarajan, Meet Shah, Yu Jiang, Xinlei Chen, Dhruv Batra, Devi Parikh, Marcus Rohrbach. CVPR, 2019. [Deom](https://textvqa.org/)
+
+
 
 ### VLP (Language Pre-training)
 
