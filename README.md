@@ -64,8 +64,8 @@
 #### RL (Reinforcement Learning)
 
 - [Learning Navigation Subroutines from Egocentric Videos](http://proceedings.mlr.press/v100/kumar20a.html) - Ashish Kumar, Saurabh Gupta, Jitendra Malik,  Proceedings of the Conference on Robot Learning, PMLR 100:617-626, 2020.
-- [EgoMap: Projective mapping and structured egocentric memory for Deep RL](https://chriswolfvision.github.io/www/papers/ecml2020.pdf) Edward Beeching, Christian Wolf, Jilles Dibangoye, Olivier Simonin. [code](https://chriswolfvision.github.io/www/papers/ecml2020.pdf)   [video](https://crossminds.ai/video/egomap-projective-mapping-and-structured-egocentric-memory-for-deep-rl-6070b29e769086b2fca172da/) CHROMA group.
-- [Deep Reinforcement Learning on a Budget: 3D Control and Reasoning Without a Supercomputer]  CHROMA团队
+- [EgoMap: Projective mapping and structured egocentric memory for Deep RL](https://chriswolfvision.github.io/www/papers/ecml2020.pdf) Edward Beeching, Christian Wolf, Jilles Dibangoye, Olivier Simonin. ECML PKDD 2020. [code](https://chriswolfvision.github.io/www/papers/ecml2020.pdf)   [video](https://crossminds.ai/video/egomap-projective-mapping-and-structured-egocentric-memory-for-deep-rl-6070b29e769086b2fca172da/) CHROMA group.
+- [Deep Reinforcement Learning on a Budget: 3D Control and Reasoning Without a Supercomputer](https://ieeexplore.ieee.org/abstract/document/9412212/) Beeching, Edward; Wolf, Christian; Dibangoye, Jilles; Simonin, Olivier, CHROMA group. ICPR 2021.
 - [Environment predictive coding for embodied agents Santhosh]  K. Ramakrishnan
 - [An Exploration of Embodied Visual Exploration  Santhosh] K. Ramakrishnan
 - [Environment Predictive Coding for Embodied Agents Santhosh] K. Ramakrishnan
