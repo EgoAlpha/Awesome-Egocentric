@@ -59,7 +59,7 @@
 
 ### Embodied Agent Learning
 #### VLN (Vision-and-Language Navigation)
-- [Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments] Peter Anderson, Qi Wu, Damien Teney, Jake Bruce, Mark Johnson, Niko Sünderhauf, Ian Reid, Stephen Gould, Anton van den Hengel. CVPR 2018. [Video](https://www.youtube.com/watch?v=Jl1NeziAHFY&list=PL_bDvITUYucCIT8iNGW8zCXeY5_u6hg-y&index=22&t=0s)
+- [Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments](https://openaccess.thecvf.com/content_cvpr_2018/html/Anderson_Vision-and-Language_Navigation_Interpreting_CVPR_2018_paper.html) Peter Anderson, Qi Wu, Damien Teney, Jake Bruce, Mark Johnson, Niko Sünderhauf, Ian Reid, Stephen Gould, Anton van den Hengel. CVPR 2018. [Video](https://www.youtube.com/watch?v=Jl1NeziAHFY&list=PL_bDvITUYucCIT8iNGW8zCXeY5_u6hg-y&index=22&t=0s)
 
 - [Vision-and-Dialog Navigation](http://proceedings.mlr.press/v100/thomason20a.html) Jesse Thomason, Michael Murray, Maya Cakmak, Luke Zettlemoyer Proceedings of the Conference on Robot Learning, PMLR 100:394-406, 2020. [Video](https://www.youtube.com/watch?v=BonlITv_PKw&feature=youtu.be)
 
