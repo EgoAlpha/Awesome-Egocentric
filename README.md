@@ -98,9 +98,9 @@
 
 - [RoboTHOR: An Open Simulation-to-Real Embodied AI Platform](https://openaccess.thecvf.com/content_CVPR_2020/html/Deitke_RoboTHOR_An_Open_Simulation-to-Real_Embodied_AI_Platform_CVPR_2020_paper.html)Matt Deitke, Winson Han, Alvaro Herrasti, Aniruddha Kembhavi, Eric Kolve, Roozbeh Mottaghi, Jordi Salvador, Dustin Schwenk, Eli VanderBilt, Matthew Wallingford, Luca Weihs, Mark Yatskar, Ali Farhadi. CVPR 2020. 
 
-- [iGibson: A Simulation Environment to train Robots in Large Realistic Interactive Scenes] Chengshu Li and Fei Xia and Roberto Mart\'in-Mart\'in and Michael Lingelbach and Sanjana Srivastava and Bokui Shen and Kent Vainio and Cem Gokmen and Gokul Dharan and Tanish Jain and Andrey Kurenkov and Karen Liu and Hyowon Gweon and Jiajun Wu and Li Fei-Fei and Silvio Savarese. [Demo](http://svl.stanford.edu/igibson/)
+- [iGibson: A Simulation Environment to train Robots in Large Realistic Interactive Scenes](https://ieeexplore.ieee.org/abstract/document/9636667) Chengshu Li and Fei Xia and Roberto Mart\'in-Mart\'in and Michael Lingelbach and Sanjana Srivastava and Bokui Shen and Kent Vainio and Cem Gokmen and Gokul Dharan and Tanish Jain and Andrey Kurenkov and Karen Liu and Hyowon Gweon and Jiajun Wu and Li Fei-Fei and Silvio Savarese. [Demo](http://svl.stanford.edu/igibson/)
 
-- [Self-Supervised Visual Reinforcement Learning with Object-Centric Representations] (SMORL) 
+- [Self-Supervised Visual Reinforcement Learning with Object-Centric Representations](https://www.iclr.cc/media/Slides/iclr/2021/virtual(05-16-00)-05-16-00UTC-3331-self-supervised.pdf) Andrii Zadaianchuk, Maximilian Seitzer, Georg Martius, ICLR 2021.
 
 
 #### MARL (Multiagent Reinforcement Learning)
