@@ -65,8 +65,10 @@
 
 - [Speaker-Follower Model for Vision-and-Language Navigation](https://proceedings.neurips.cc/paper/2018/hash/6a81681a7af700c6385d36577ebec359-Abstract.html) Daniel Fried, Ronghang Hu, Volkan Cirik, Anna Rohrbach, Jacob Andreas, Louis-Philippe Morency, Taylor Berg-Kirkpatrick, Kate Saenko, Dan Klein, Trevor Darrell. NeurIPS 2018.
 
-- [Reinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation] Wang et al. CVPR 2019
-- [Learning to Navigate Unseen Environment: Back Translation with Environment Dropout] Tan and Bansal, NAACL 2019
+- [Reinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation](https://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Reinforced_Cross-Modal_Matching_and_Self-Supervised_Imitation_Learning_for_Vision-Language_Navigation_CVPR_2019_paper.html) Xin Wang, Qiuyuan Huang, Asli Celikyilmaz, Jianfeng Gao, Dinghan Shen, Yuan-Fang Wang, William Yang Wang, Lei Zhang. CVPR 2019
+
+- [Learning to Navigate Unseen Environment: Back Translation with Environment Dropout] Hao Tan, Licheng Yu, Mohit Bansal, NAACL 2019 [code](https://github.com/airsplay/R2R-EnvDrop)
+
 - [Counterfactual Vision-and-Language Navigation via Adversarial Path Sampling] Fu et al. ECCV 2020
 - [Environment-agnostic Multitask Learning for Natural Language Grounded Navigation] Wang et al. ECCV 2020
 - [Multimodal Text Style Transfer for Outdoor Vision-and-Language Navigation] Zhu et al. EACL 2021
