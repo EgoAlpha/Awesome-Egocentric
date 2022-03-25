@@ -162,6 +162,13 @@
 
 ### Egocentric Video Summarization
 
+- [Toward storytelling from visual lifelogging: An overview](https://arxiv.org/pdf/1507.06120.pdf) - Marc Bolanos, Mariella Dimiccoli, and Petia Radeva. In IEEE Transactions on Human-Machine Systems 2017.
+
+- [Story-Driven Summarization for Egocentric Video](https://www.cs.utexas.edu/~grauman/papers/lu-grauman-cvpr2013.pdf) - Zheng Lu and Kristen Grauman. In CVPR 2013 [[project page]](http://vision.cs.utexas.edu/projects/egocentric/storydriven.html)
+
+- [Discovering Important People and Objects for Egocentric Video Summarization](http://vision.cs.utexas.edu/projects/egocentric/egocentric_cvpr2012.pdf) - Yong Jae Lee, Joydeep Ghosh, and Kristen Grauman. In CVPR 2012. [[project page]](http://vision.cs.utexas.edu/projects/egocentric/index.html)
+
+
 - [Video Summarization Using Deep Neural Networks: A Survey](https://ieeexplore.ieee.org/abstract/document/9594911) Evlampios Apostolidis; Eleni Adamantidou; Alexandros I. Metsai; Vasileios Mezaris; Ioannis Patras. Proceedings of the IEEE 2021.
 
 - [Summarizing Videos with Attention](https://arxiv.org/pdf/1812.01969) Asian Conference on Computer Vision 2018. [Code](https://github.com/ok1zjf/VASNet)
