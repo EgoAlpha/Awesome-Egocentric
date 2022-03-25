@@ -58,7 +58,41 @@
 
 ### Embodied Agent Learning
 #### VLN (Vision-and-Language Navigation)
+Communicative Learning with Natural Gestures for Embodied Navigation Agents with Human-in-the-Scene
+
+#### RL (Reinforcement Learning)
+Learning Navigation Subroutines from Egocentric Videos
+EgoMap: Projective mapping and structured egocentric memory for Deep RL   CHROMA团队
+Deep Reinforcement Learning on a Budget: 3D Control and Reasoning Without a Supercomputer  CHROMA团队
+Environment predictive coding for embodied agents Santhosh K. Ramakrishnan
+An Exploration of Embodied Visual Exploration  Santhosh K. Ramakrishnan
+Environment Predictive Coding for Embodied Agents Santhosh K. Ramakrishnan
+Shaping embodied agent behavior with activity-context priors from egocentric video Tushar Nagarajan
+Learning Affordance Landscapes for Interaction Exploration in 3D Environments Tushar Nagarajan
+Explore and Explain: Self-supervised Navigation and Recounting
+Embodied Visual Active Learning for Semantic Segmentation
+IFR-Explore: Learning Inter-object Functional Relationships in 3D Indoor Scenes
+Learning to Explore by Reinforcement over High-Level Options
+SEAL: Self-supervised Embodied Active Learning using Exploration and 3D Consistency
+Embodied Learning for Lifelong Visual Perception
+Learning Exploration Policies for Navigation
+PLEX: PLanner and EXecutor for Embodied Learning in Navigation
+RoboTHOR: An Open Simulation-to-Real Embodied AI Platform   一个环境
+iGibson: A Simulation Environment to train Robots in Large Realistic Interactive Scenes   一个环境
+Self-Supervised Visual Reinforcement Learning with Object-Centric Representations (SMORL)  
+
+
+
 #### MARL (Multiagent Reinforcement Learning)
+A Cordial Sync: Going Beyond Marginal Policies for Multi-agent Embodied Tasks furnmove; Author: Unnat Jain
+Two Body Problem: Collaborative Visual Task Completion furnlift; Author: Unnat Jain
+Multi-Agent Embodied Visual Semantic Navigation with Scene Prior Knowledge; Author: Xinzhu Liu
+Semantic Tracklets: An Object-Centric Representation for Visual Multi-Agent Reinforcement Learning 一种面向对象
+Collaborative Visual Navigation
+Interpretation of emergent communication in heterogeneous collaborative embodied agents
+Agent-Centric Representations for Multi-Agent Reinforcement Learning 
+GRIDTOPIX: Training Embodied Agents with Minimal Supervision
+
 
 ### Egocentric Video Summarization
 
