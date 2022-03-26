@@ -75,6 +75,26 @@
 
 ### Referring Image Segmentation
 
+- **PhraseClick**: [PhraseClick: Toward Achieving Flexible Interactive Segmentation by Phrase and Click](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480426.pdf)<br>
+*Henghui Ding, Scott Cohen, Brian Price, Xudong Jiang*<br>
+ECCV, 2020.
+
+
+- [Video Object Segmentation with Language Referring Expressions] ACCV 2018
+
+- **RefVOS**[RefVOS: A Closer Look at Referring Expressions for Video Object Segmentation]	arxiv 20.10
+
+
+- **URVOS**[URVOS: Unified Referring Video Object Segmentation Network with a Large-Scale Benchmark]  . ECCV 2020.	[code](https://github.com/skynbe/Refer-Youtube-VOS)
+
+- **YOFO**[You Only Infer Once: Cross-Modal Meta-Transfer for Referring Video Object Segmentation]	. AAAI 2022.
+
+
+- **MTTR**[End-to-End Referring Video Object Segmentation with Multimodal Transformers]	. CVPR 2022.	[code](https://github.com/mttr2021/MTTR)
+
+- **ReferFormer**[Language as Queries for Referring Video Object Segmentation].	CVPR 2022.	[code](https://github.com/wjn922/ReferFormer)
+
+
 ### Video Captioning 
 
 - **Survey**: [Video Description: A Survey of Methods, Datasets and Evaluation Metrics](https://arxiv.org/pdf/1806.00186)<br>
