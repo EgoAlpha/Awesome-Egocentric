@@ -77,6 +77,105 @@
 
 ### Video Captioning 
 
+- **Survey**: [Video Description: A Survey of Methods, Datasets and Evaluation Metrics](https://arxiv.org/pdf/1806.00186)<br>
+*Nayyer Aafaq, Ajmal Mian, Wei Liu, Syed Zulqarnain Gilani, Mubarak Shah*<br>
+ACM Computing Surveys, 2019.
+
+- **GRU-EVE**: [Spatio-Temporal Dynamics and Semantic Attribute Enriched Visual Encoding for Video Captioning](https://zpascal.net/cvpr2019/Aafaq_Spatio-Temporal_Dynamics_and_Semantic_Attribute_Enriched_Visual_Encoding_for_Video_CVPR_2019_paper.pdf)<br>
+*Nayyer Aafaq, Naveed Akhtar, Wei Liu, Syed Zulqarnain Gilani, Ajmal Mian*<br>
+CVPR, 2019.
+
+
+- **MARN**: [Memory-Attended Recurrent Network for Video Captioning](https://arxiv.org/pdf/1905.03966)<br>
+*Wenjie Pei, Jiyuan Zhang, Xiangrong Wang, Lei Ke, Xiaoyong Shen, Yu-Wing Tai*<br>
+CVPR, 2019.
+
+
+- **OA-BTG**: [Object-aware Aggregation with Bidirectional Temporal Graph for Video Captioning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Object-Aware_Aggregation_With_Bidirectional_Temporal_Graph_for_Video_Captioning_CVPR_2019_paper.pdf)<br>
+*Junchao Zhang, Yuxin Peng*<br>
+CVPR, 2019.
+
+
+- **VATEX**: [VaTeX: A Large-Scale, High-Quality Multilingual Dataset for Video-and-Language Research](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_VaTeX_A_Large-Scale_High-Quality_Multilingual_Dataset_for_Video-and-Language_Research_ICCV_2019_paper.pdf)<br>
+*Xin Wang, Jiawei Wu, Junkun Chen, Lei Li, Yuan-Fang Wang, William Yang Wang*<br>
+ICCV, 2019.[[website]](https://vatex.org/main/index.html#)
+
+
+- **POS**: [Joint Syntax Representation Learning and Visual Cue Translation for Video Captioning](http://openaccess.thecvf.com/content_ICCV_2019/papers/Hou_Joint_Syntax_Representation_Learning_and_Visual_Cue_Translation_for_Video_ICCV_2019_paper.pdf)<br>
+*Jingyi Hou, Xinxiao Wu, Wentian Zhao, Jiebo Luo, Yunde Jia*<br>
+ICCV, 2019.
+
+- **POS-CG**: [Controllable Video Captioning With POS Sequence Guidance Based on Gated Fusion Network](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Controllable_Video_Captioning_With_POS_Sequence_Guidance_Based_on_Gated_ICCV_2019_paper.pdf)<br>
+*Bairui Wang, Lin Ma, Wei Zhang, Wenhao Jiang, Jingwen Wang, Wei Liu*<br>
+ICCV, 2019.[[pytorch-code]](https://github.com/vsislab/Controllable_XGating) 
+
+- **WIT**: [Watch It Twice: Video Captioning with a Refocused Video Encoder](https://arxiv.org/pdf/1907.12905)<br>
+*Xiangxi Shi, Jianfei Cai, Shafiq Joty, Jiuxiang Gu*<br>
+ACM MM, 2019.
+
+- **MGSA**: [Motion Guided Spatial Attention for Video Captioning](https://www.aaai.org/ojs/index.php/AAAI/article/view/4829/4702)<br>
+*Shaoxiang Chen and Yu-Gang Jiang*<br>
+AAAI, 2019.
+
+- **TDConvED**: [Temporal Deformable Convolutional Encoder-Decoder Networks for Video Captioning](https://arxiv.org/pdf/1905.01077)<br>
+*Jingwen Chen, Yingwei Pan, Yehao Li, Ting Yao, Hongyang Chao, Tao Mei*<br>
+AAAI, 2019.
+
+- **FCVC-CF&IA**: [Fully Convolutional Video Captioning with Coarse-to-Fine and Inherited Attention](https://aaai.org/ojs/index.php/AAAI/article/view/4839)<br>
+*Kuncheng Fang, Lian Zhou, Cheng Jin, Yuejie Zhang,Kangnian Weng,Tao Zhang, Weiguo Fan*<br>
+AAAI, 2019.
+
+- **TAMoE**: [Learning to Compose Topic-Aware Mixture of Experts for Zero-Shot Video Captioning](https://arxiv.org/pdf/1811.02765)<br>
+*Xin Wang, Jiawei Wu, Da Zhang, Yu Su, William Yang Wang*<br>
+AAAI, 2019.[[code]](https://github.com/eric-xw/Zero-Shot-Video-Captioning)
+
+- **VIC**: [Video Interactive Captioning with Human Prompts](https://www.ijcai.org/proceedings/2019/0135.pdf)<br>
+*Aming Wu, Yahong Han and Yi Yang*<br>
+IJCAI, 2019.[[code]](https://github.com/ViCap01/ViCap)
+
+- [Spatio-Temporal Graph for Video Captioning with Knowledge Distillation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Pan_Spatio-Temporal_Graph_for_Video_Captioning_With_Knowledge_Distillation_CVPR_2020_paper.pdf)<br>
+*Boxiao Pan, Haoye Cai, De-An Huang, Kuan-Hui Lee, Adrien Gaidon, Ehsan Adeli, Juan Carlos Niebles*<br>
+CVPR, 2020.
+
+- **SAAT**: [Syntax-Aware Action Targeting for Video Captioning](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zheng_Syntax-Aware_Action_Targeting_for_Video_Captioning_CVPR_2020_paper.pdf)<br>
+*Zheng, Qi and Wang, Chaoyue and Tao, Dacheng*<br>
+CVPR, 2020.[[pytorch-code]](https://github.com/SydCaption/SAAT)
+
+- **ORG-TRL**: [Object Relational Graph with Teacher-Recommended Learning for Video Captioning](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Object_Relational_Graph_With_Teacher-Recommended_Learning_for_Video_Captioning_CVPR_2020_paper.pdf)<br>
+*Ziqi Zhang, Yaya Shi, Chunfeng Yuan, Bing Li, Peijin Wang, Weiming Hu, Zhengjun Zha*<br>
+CVPR, 2020.
+
+- **PMI-CAP**: [Learning Modality Interaction for Temporal Sentence Localization and Event Captioning in Videos](https://arxiv.org/pdf/2007.14164.pdf)<br>
+*Shaoxiang Chen, Wenhao Jiang, Wei Liu, Yu-Gang Jiang*<br>
+ECCV, 2020.[[pytorch-code]](https://github.com/xuewyang/Fashion_Captioning)
+
+- **RMN**: [Learning to Discretely Compose Reasoning Module Networks for Video Captioning](https://www.ijcai.org/Proceedings/2020/0104.pdf)<br>
+*Ganchao Tan, Daqing Liu, Meng Wang and Zheng-Jun Zha*<br>
+IJCAI, 2020.[[pytorch-code]](https://github.com/tgc1997/RMN)
+
+- **SBAT**: [SBAT: Video Captioning with Sparse Boundary-Aware Transformer](https://www.ijcai.org/Proceedings/2020/0088.pdf)<br>
+*Tao Jin, Siyu Huang, Yingming Li, Zhongfei Zhang, Ming Chen*<br>
+IJCAI, 2020.
+
+- [Joint Commonsense and Relation Reasoning for Image and Video Captioning](https://wuxinxiao.github.io/assets/papers/2020/C-R_reasoning.pdf)<br>
+*Jingyi Hou, Xinxiao Wu, Xiaoxun Zhang, Yayun Qi, Yunde Jia, Jiebo Luo*<br>
+AAAI, 2020.
+
+- **SMCG**: [Controllable Video Captioning with an Exemplar Sentence](https://dl.acm.org/doi/abs/10.1145/3394171.3413908)<br>
+*Yitian Yuan, Lin Ma, Jingwen Wang, Wenwu Zhu*<br>
+ACM MM, 2020.
+
+- **Poet**: [Poet: Product-oriented Video Captioner for E-commerce](https://arxiv.org/pdf/2008.06880.pdf)<br>
+*Shengyu Zhang, Ziqi Tan, Jin Yu, Zhou Zhao, Kun Kuang, Jie Liu, Jingren Zhou, Hongxia Yang, Fei Wu*<br>
+ACM MM, 2020.
+
+- [Learning Semantic Concepts and Temporal Alignment for Narrated Video Procedural Captioning](https://dl.acm.org/doi/abs/10.1145/3394171.3413498)<br>
+*Botian Shi, Lei Ji, Zhendong Niu, Nan Duan, Ming Zhou, Xilin Chen*<br>
+ACM MM, 2020.
+
+
+
+
 ### Embodied Agent Learning
 #### VLN (Vision-and-Language Navigation)
 - [Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments](https://openaccess.thecvf.com/content_cvpr_2018/html/Anderson_Vision-and-Language_Navigation_Interpreting_CVPR_2018_paper.html) Peter Anderson, Qi Wu, Damien Teney, Jake Bruce, Mark Johnson, Niko Sünderhauf, Ian Reid, Stephen Gould, Anton van den Hengel. CVPR 2018. [Video](https://www.youtube.com/watch?v=Jl1NeziAHFY&list=PL_bDvITUYucCIT8iNGW8zCXeY5_u6hg-y&index=22&t=0s)
