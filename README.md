@@ -82,16 +82,16 @@ ECCV, 2020.
 
 - [Video Object Segmentation with Language Referring Expressions](https://arxiv.org/pdf/1803.08006) Anna Khoreva, Anna Rohrbach, Bernt Schiele. ACCV 2018.
 
-- **RefVOS**[RefVOS: A Closer Look at Referring Expressions for Video Object Segmentation] Miriam Bellver, Carles Ventura, Carina Silberer, Ioannis Kazakos, Jordi Torres, Xavier Giro-i-Nieto.	Arxiv 2020
+- **RefVOS** [RefVOS: A Closer Look at Referring Expressions for Video Object Segmentation] Miriam Bellver, Carles Ventura, Carina Silberer, Ioannis Kazakos, Jordi Torres, Xavier Giro-i-Nieto.	Arxiv 2020
 
 
-- **URVOS**[URVOS: Unified Referring Video Object Segmentation Network with a Large-Scale Benchmark](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600205.pdf)  Henghui Ding, Scott Cohen, Brian Price, Xudong Jiang. ECCV 2020.[code](https://github.com/skynbe/Refer-Youtube-VOS)
+- **URVOS** [URVOS: Unified Referring Video Object Segmentation Network with a Large-Scale Benchmark](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600205.pdf)  Henghui Ding, Scott Cohen, Brian Price, Xudong Jiang. ECCV 2020.[code](https://github.com/skynbe/Refer-Youtube-VOS)
 
-- **YOFO**[You Only Infer Once: Cross-Modal Meta-Transfer for Referring Video Object Segmentation](https://www.aaai.org/AAAI22Papers/AAAI-1100.LiD.pdf) Dezhuang Li et, al. AAAI 2022.
+- **YOFO** [You Only Infer Once: Cross-Modal Meta-Transfer for Referring Video Object Segmentation](https://www.aaai.org/AAAI22Papers/AAAI-1100.LiD.pdf) Dezhuang Li et, al. AAAI 2022.
 
-- **MTTR**[End-to-End Referring Video Object Segmentation with Multimodal Transformers](https://arxiv.org/pdf/2111.14821) Adam Botach, Evgenii Zheltonozhskii, Chaim Baskin. CVPR 2022.	[code](https://github.com/mttr2021/MTTR)
+- **MTTR** [End-to-End Referring Video Object Segmentation with Multimodal Transformers](https://arxiv.org/pdf/2111.14821) Adam Botach, Evgenii Zheltonozhskii, Chaim Baskin. CVPR 2022.	[code](https://github.com/mttr2021/MTTR)
 
-- **ReferFormer**[Language as Queries for Referring Video Object Segmentation](https://arxiv.org/pdf/2201.00487). Jiannan Wu, Yi Jiang, Peize Sun, Zehuan Yuan, Ping Luo CVPR 2022. [code](https://github.com/wjn922/ReferFormer)
+- **ReferFormer** [Language as Queries for Referring Video Object Segmentation](https://arxiv.org/pdf/2201.00487). Jiannan Wu, Yi Jiang, Peize Sun, Zehuan Yuan, Ping Luo CVPR 2022. [code](https://github.com/wjn922/ReferFormer)
 
 
 ### Video Captioning 
