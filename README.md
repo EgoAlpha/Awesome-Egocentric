@@ -5,6 +5,7 @@
     - [Episodic Memory](#episodic-memory)
         - [Moments Queries](#moments-queries)
     - [Referring Image Segmentation](#referring-image-segmentation)
+    - [Referring Video Object Segmentation](#referring-video-object-segmentation)
     - [Video Captioning](#video-captioning)
     - [Embodied Agent Learning](#embodied-agent-learning)
         - [VLN (Vision-and-Language Navigation)](#vln-vision-and-language-navigation))
@@ -71,9 +72,39 @@
 - [The EPIC-KITCHENS Dataset: Collection, Challenges and Baselines.](https://arxiv.org/abs/2005.00343) 
  D Damen, H Doughty, GM Farinella, S Fidler, A Furnari, E Kazakos, D Moltisanti, J Munro, T Perrett, W Price, M Wray. IEEE Transactions on Pattern Analysis and Machine Intelligence 43(11) pp 4125-4141 (2021).
 
-
-
 ### Referring Image Segmentation
+
+- **-** [Instance-Specific Feature Propagation for Referring Segmentation](https://ieeexplore.ieee.org/abstract/document/9745353) Chang Liu; Xudong Jiang; Henghui Ding. TMM 2022.
+- **LAVT** [LAVT: Language-Aware Vision Transformer for Referring Image Segmentation](https://arxiv.org/abs/2112.02244) Zhao Yang, Jiaqi Wang, Yansong Tang, Kai Chen, Hengshuang Zhao, Philip H. S. Torr. CVPR 2022. [code](https://github.com/yz93/LAVT-RIS)
+- **CRIS** [CRIS: CLIP-Driven Referring Image Segmentation](https://arxiv.org/abs/2111.15174) Zhaoqing Wang, Yu Lu, Qiang Li, Xunqiang Tao, Yandong Guo, Mingming Gong, Tongliang Liu. CVPR 2022.
+- **ReSTR** [ReSTR: Convolution-free Referring Image Segmentation Using Transformers](https://www.microsoft.com/en-us/research/uploads/prod/2022/03/01404.pdf) Namyup Kim, Dongwon Kim, Cuiling Lan, Wenjun Zeng, Suha Kwak. CVPR 2022. [code](http://cvlab.postech.ac.kr/research/restr/)
+- **MaIL** [MaIL: A Unified Mask-Image-Language Trimodal Network for Referring Image Segmentation](https://arxiv.org/pdf/2111.10747v2.pdf) Zizhang Li, Mengmeng Wang, Jianbiao Mei, Yong liu.
+- **VLT** [Vision-Language Transformer and Query Generation for Referring Segmentation](https://arxiv.org/abs/2108.05565) Henghui Ding, Chang Liu, Suchen Wang, and Xudong Jiang. ICCV 2021. [code](https://github.com/henghuiding/Vision-Language-Transformer)
+- **MDETR** [MDETR - Modulated Detection for End-to-End Multi-Modal Understanding](https://arxiv.org/abs/2104.12763) Aishwarya Kamath, Mannat Singh, Yann LeCun, Gabriel Synnaeve, Ishan Misra, Nicolas Carion ICCV 2021. [code](https://github.com/ashkamath/mdetr)
+- **EFN** [Encoder Fusion Network with Co-Attention Embedding for Referring Image Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Feng_Encoder_Fusion_Network_With_Co-Attention_Embedding_for_Referring_Image_Segmentation_CVPR_2021_paper.pdf)  Guang Feng, Zhiwei Hu, Lihe Zhang, and Huchuan Lu. CVPR 2021. [code](https://github.com/fengguang94/CEFNet)
+- **BUSNet** [Bottom-Up Shift and Reasoning for Referring Image Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Bottom-Up_Shift_and_Reasoning_for_Referring_Image_Segmentation_CVPR_2021_paper.pdf)  Sibei Yang, Meng Xia, Guanbin Li, Hong-Yu Zhou, and Yizhou Yu. CVPR 2021. [code](https://github.com/incredibleXM/BUSNet)
+- **LTS** [Locate then Segment: A Strong Pipeline for Referring Image Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Jing_Locate_Then_Segment_A_Strong_Pipeline_for_Referring_Image_Segmentation_CVPR_2021_paper.pdf) Ya Jing, Tao Kong, Wei Wang, Liang Wang, Lei Li, and Tieniu Tan. CVPR 2021.
+- **SANet** [Structured Attention Network for Referring Image Segmentation](https://ieeexplore.ieee.org/abstract/document/9408401) Liang Lin, Pengxiang Yan, Xiaoqian Xu, Sibei Yang, Kun Zeng, and Guanbin Li. TMM 2021. [code](https://github.com/Kinpzz/SANet-TMM)
+- **TV-Net** [Two-stage Visual Cues Enhancement Network for Referring Image Segmentation](https://arxiv.org/abs/2110.04435) Yang Jiao, Zequn Jie, Weixin Luo, Jingjing Chen, Yu-Gang Jiang, Xiaolin Wei, and Lin Ma. ACMMM 2021. [code](https://github.com/sxjyjay/tv-net)
+- **CGAN** [Cascade Grouped Attention Network for Referring Expression Segmentation](https://dl.acm.org/doi/abs/10.1145/3394171.3414006) Gen Luo, Yiyi Zhou, Rongrong Ji, Xiaoshuai Sun, Jinsong Su, Chia-Wen Lin, and Qi Tian. ACMMM 2020. 
+- **LSCM** [Linguistic Structure Guided Context Modeling for Referring Image Segmentation](http://colalab.org/media/paper/Linguistic_Structure_Guided_Context_Modeling_for_Referring_Image_Segmentation.pdf) Tianrui Hui, Si Liu, Shaofei Huang, Guanbin Li, Sansi Yu, Faxi Zhang, and Jizhong Han. ECCV 2020. [code](https://github.com/spyflying/LSCM-Refseg)
+- **CMPC** [Referring Image Segmentation via Cross-Modal Progressive Comprehension](http://openaccess.thecvf.com/content_CVPR_2020/papers/Huang_Referring_Image_Segmentation_via_Cross-Modal_Progressive_Comprehension_CVPR_2020_paper.pdf) Shaofei Huang, Tianrui Hui, Si Liu, Guanbin Li, Yunchao Wei, Jizhong Han, Luoqi Liu, and Bo Li. CVPR 2020. [code](https://github.com/spyflying/CMPC-Refseg)
+- **BRINet** [Bi-directional Relationship Inferring Network for Referring Image Segmentation](http://openaccess.thecvf.com/content_CVPR_2020/papers/Hu_Bi-Directional_Relationship_Inferring_Network_for_Referring_Image_Segmentation_CVPR_2020_paper.pdf) Zhiwei Hu, Guang Feng, Jiayu Sun, Lihe Zhang, and Huchuan Lu. 2020. CVPR 2020. [code](https://github.com/fengguang94/CVPR2020-BRINet)
+- **PhraseCut** [PhraseCut: Language-based Image Segmentation in the Wild](https://people.cs.umass.edu/~smaji/papers/phrasecut+supp-cvpr20.pdf) Chenyun Wu, Zhe Lin, Scott Cohen, Trung Bui, Subhransu Maji. CVPR 2020. [code](https://github.com/ChenyunWu/PhraseCutDataset)
+- **MCN** [Multi-task Collaborative Network for Joint Referring Expression Comprehension and Segmentation](https://arxiv.org/abs/2003.08813) Gen Luo, Yiyi Zhou, Xiaoshuai Sun, Liujuan Cao, Chenglin Wu, Cheng Deng, Rongrong Ji. CVPR 2020. [code](https://github.com/luogen1996/MCN)
+- **-** [Dual Convolutional LSTM Network for Referring Image Segmentation](https://arxiv.org/abs/2001.11561) Linwei Ye, Zhi Liu, Yang Wang. TMM 2020.
+- **STEP** [See-Through-Text Grouping for Referring Image Segmentation](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_See-Through-Text_Grouping_for_Referring_Image_Segmentation_ICCV_2019_paper.pdf) Ding-Jie Chen, Songhao Jia, Yi-Chen Lo, Hwann-Tzong Chen, and Tyng-Luh Liu. ICCV
+2019. 
+- **lang2seg** [Referring Expression Object Segmentation with Caption-Aware Consistency](https://arxiv.org/pdf/1910.04748.pdf) Yi-Wen Chen, Yi-Hsuan Tsai, Tiantian Wang, Yen-Yu Lin, Ming-Hsuan Yang BMVC 2019. [code](https://github.com/wenz116/lang2seg)
+- **CMSA** [Cross-Modal Self-Attention Network for Referring Image Segmentation](https://arxiv.org/pdf/1904.04745.pdf) Linwei Ye, Mrigank Rochan, Zhi Liu, and Yang Wang. CVPR 2019. [code](https://github.com/lwye/CMSA-Net)
+- **KWA** [Key-Word-Aware Network for Referring Expression Image Segmentation](https://openaccess.thecvf.com/content_ECCV_2018/papers/Hengcan_Shi_Key-Word-Aware_Network_for_ECCV_2018_paper.pdf)Hengcan Shi, Hongliang Li, Fanman Meng, and Qingbo Wu. ECCV 2018. [code](https://github.com/shihengcan/key-word-aware-network-pycaffe)
+- **DMN** [Dynamic Multimodal Instance Segmentation Guided by Natural Language Queries](https://openaccess.thecvf.com/content_ECCV_2018/papers/Edgar_Margffoy-Tuay_Dynamic_Multimodal_Instance_ECCV_2018_paper.pdf) Edgar Margffoy-Tuay, Juan C. Pérez, Emilio Botero, and Pablo Arbeláez. ECCV 2018. [code](https://github.com/BCV-Uniandes/DMS)
+- **RNN** [Referring Image Segmentation via Recurrent Refinement Networks](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Referring_Image_Segmentation_CVPR_2018_paper.pdf) Ruiyu Li, Kai-Can Li, Yi-Chun Kuo, Michelle Shu, Xiaojuan Qi, Xiaoyong Shen, and Jiaya Jia. 2018. [code](https://github.com/liruiyu/referseg_rrn)
+- **MAttNet** [MAttNet: Modular Attention Network for Referring Expression Comprehension](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yu_MAttNet_Modular_Attention_CVPR_2018_paper.pdf) Licheng Yu, Zhe Lin, Xiaohui Shen, Jimei Yang, Xin Lu, Mohit Bansal, and Tamara L. Berg. CVPR 2018. [code](https://github.com/lichengunc/MAttNet)
+- **RMI** [Recurrent Multimodal Interaction for Referring Image Segmentation](https://openaccess.thecvf.com/content_ICCV_2017/papers/Liu_Recurrent_Multimodal_Interaction_ICCV_2017_paper.pdf) Chenxi Liu, Zhe Lin, Xiaohui Shen, Jimei Yang, Xin Lu, and Alan L. Yuille. ICCV 2017. [code](https://github.com/chenxi116/TF-phrasecut-public)
+- **LSTM-CNN** [Segmentation from natural language expressions](https://arxiv.org/pdf/1603.06180.pdf) Ronghang Hu, Marcus Rohrbach, and Trevor Darrell. ECCV 2016. [code](https://github.com/ronghanghu/text_objseg)
+
+### Referring Video Object Segmentation
 
 - **PhraseClick**: [PhraseClick: Toward Achieving Flexible Interactive Segmentation by Phrase and Click](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480426.pdf)<br>
 *Henghui Ding, Scott Cohen, Brian Price, Xudong Jiang*<br>
